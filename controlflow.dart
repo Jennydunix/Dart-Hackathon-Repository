@@ -17,6 +17,6 @@ String calculateGrade(int marks) {
   } else if (marks >= 65 && marks < 75) {
     return "Good";
   } else {
-    return "Average";
+    return " You are Average";
   }
 }
