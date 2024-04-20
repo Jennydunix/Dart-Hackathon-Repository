@@ -5,8 +5,8 @@ void main() {
   int resultAddition = addNumbers(num1, num2);
   int resultMultiplication = multiplyNumbers(num1, num2);
   
-  print("Result of addition: $resultAddition");
-  print("Result of multiplication: $resultMultiplication");
+  print("The result of addition: $resultAddition");
+  print(" The result of multiplication: $resultMultiplication");
 }
 
 int addNumbers(int a, int b) {
